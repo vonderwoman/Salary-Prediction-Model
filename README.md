@@ -85,5 +85,5 @@ To deploy and use the salary prediction application, follow these steps:
         
   ## App deployed on Streamlit
 
-![Streamlit GIF](assests/app%20%C2%B7%20Streamlit%20%E2%80%94%20Mozilla%20Firefox%202023-05-11%2022-14-36.mp4)
+![Streamlit GIF](https://github.com/vonderwoman/Salary-Prediction-Model/blob/main/asset/gif_streamlit.gif)
 
