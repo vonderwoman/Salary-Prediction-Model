@@ -59,6 +59,28 @@ The project involves the following tasks:
 
 ## Deployment
 
-To deploy the Salary Prediction Model using Streamlit, follow these steps:
+To deploy and use the salary prediction application, follow these steps:
 
-1. Install the required dependencies by running the following command:
+- Clone the project repository to your local machine.
+
+ - Execute the application by running the following command:
+            streamlit run app.py
+
+  - After running the streamlit run app.py command, Streamlit will start a local web server and provide a URL.
+        
+   - Open your preferred web browser and enter the provided URL in the address bar.
+   - This will navigate you to the Streamlit application's interface.
+
+   - Enter your country, education level, and years of professional coding experience in the respective input fields.
+   
+        On the Streamlit application interface, you will find input fields for entering your information.
+        Locate the input fields labeled "Country," "Education Level," and "Years of Professional Coding Experience."
+        Enter your information in these fields based on your current circumstances.
+        Ensure that you provide accurate and relevant data to obtain more accurate salary predictions.
+
+  - Click the "Predict Salary" button to obtain the predicted salary based on your inputs.
+        Once you have entered your information in the respective input fields, locate the "Predict Salary" button.
+        Click the button to initiate the salary prediction process.
+        The machine learning model will use the provided inputs to calculate and display an estimated salary based on the trained model's          predictions.
+        
+
