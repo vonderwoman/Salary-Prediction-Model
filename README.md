@@ -83,4 +83,7 @@ To deploy and use the salary prediction application, follow these steps:
         Click the button to initiate the salary prediction process.
         The machine learning model will use the provided inputs to calculate and display an estimated salary based on the trained model's          predictions.
         
+  ## App deployed on Streamlit
+
+![Streamlit GIF](assests/app%20%C2%B7%20Streamlit%20%E2%80%94%20Mozilla%20Firefox%202023-05-11%2022-14-36.mp4)
 
