@@ -87,3 +87,19 @@ To deploy and use the salary prediction application, follow these steps:
 
 ![Streamlit GIF](https://github.com/vonderwoman/Salary-Prediction-Model/blob/main/asset/gif_streamlit.gif)
 
+## Lessons Learned
+
+Through the process of developing the salary prediction application, several key lessons have been learned:
+
+- Data preprocessing is crucial: Preprocessing the dataset is essential to ensure the data is in a suitable format for training the machine learning model. Handling missing values,     encoding categorical variables, and normalizing numerical features are important steps to improve the model's performance.
+
+- Feature selection impacts model performance: Selecting the right features significantly influences the accuracy of salary predictions. Choosing relevant features that have a strong correlation with salaries while excluding irrelevant or redundant features is critical for achieving accurate results.
+
+- Model selection and tuning matter: The choice of machine learning algorithm and its hyperparameters can greatly affect the model's predictive capabilities. Experimenting with different algorithms, such as linear regression, decision trees, or random forests, and fine-tuning their parameters can lead to improved accuracy.
+
+- Real-world salary predictions are complex: Predicting salaries accurately is challenging due to the multitude of factors that influence salaries in the real world. Factors such as location, industry, experience level, and job demand may play significant roles in determining salaries, which are not considered in this model. Therefore, it's important to be aware of the limitations of the model and understand that the predictions are estimates based on the available data.
+
+## Recommendations
+- Validate predictions with external data: Compare the model's predictions with external salary data sources or conduct surveys to validate the accuracy of the predictions. This will help identify any discrepancies and potential biases in the model, allowing for further improvements.
+
+- Consider incorporating advanced techniques: Explore advanced machine learning techniques such as ensemble methods, gradient boosting, or deep learning models to further improve the prediction accuracy. These techniques may capture more complex relationships between the input variables and salaries.
