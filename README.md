@@ -97,7 +97,6 @@ Through the process of developing the salary prediction application, several key
 
 - Model selection and tuning matter: The choice of machine learning algorithm and its hyperparameters can greatly affect the model's predictive capabilities. Experimenting with different algorithms, such as linear regression, decision trees, or random forests, and fine-tuning their parameters can lead to improved accuracy.
 
-- Real-world salary predictions are complex: Predicting salaries accurately is challenging due to the multitude of factors that influence salaries in the real world. Factors such as location, industry, experience level, and job demand may play significant roles in determining salaries, which are not considered in this model. Therefore, it's important to be aware of the limitations of the model and understand that the predictions are estimates based on the available data.
 
 ## Recommendations
 - Validate predictions with external data: Compare the model's predictions with external salary data sources or conduct surveys to validate the accuracy of the predictions. This will help identify any discrepancies and potential biases in the model, allowing for further improvements.
